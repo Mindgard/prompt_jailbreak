@@ -24,7 +24,7 @@ user_prompts = [
 # HF_Token - Your HF token to access the model.
 # Example can be found here - https://huggingface.co/google/gemma-7b-it?inference_api=true
 model = Model(
-    API_URL="https://api-inference.huggingface.co/models/google/gemma-7b-it", # Mistral example
+    API_URL="https://api-inference.huggingface.co/models/google/gemma-7b-it", # Gemma example
     HF_TOKEN=None
 )
 
